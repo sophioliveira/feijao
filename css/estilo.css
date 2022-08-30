@@ -67,7 +67,11 @@
         text-decoration: none;
         color: white;
     }
-    
+    section img{
+        width: 40%;
+        height: 450px;
+        padding-left: 15%;
+    }
     footer{
         background-color: rgb(244, 245, 217);
         height: 140px;
